@@ -1,5 +1,6 @@
 # Ex.No: 11  Planning –  Block World Problem 
 ### DATE: 
+### NAME: KALPANA S
 ### REGISTER NUMBER : 212222040069
 ### AIM: 
 To find the sequence of plan for Block word problem using PDDL  
