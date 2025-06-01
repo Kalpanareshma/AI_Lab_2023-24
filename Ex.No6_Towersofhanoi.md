@@ -1,5 +1,6 @@
 # Ex.No: 6   Logic Programming – Tower of Hanoi   
-### DATE:                                                              
+### DATE: 
+### NAME: KALPANA S
 ### REGISTER NUMBER : 212222040069
 ### AIM: 
 To  write  a logic program  to solve Towers of Hanoi problem  using SWI-PROLOG. 
